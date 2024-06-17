@@ -176,12 +176,6 @@ header .logo {
     z-index: 1000;
   }
 
-  .menuToggle {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-  }
-
   .menuToggle ion-icon {
     position: absolute;
     --ionicon-stroke-width: 20px;
